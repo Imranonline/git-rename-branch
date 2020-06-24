@@ -1,4 +1,4 @@
-# Git-Rename-branch-Name
+# Git-Rename-Branch-Name
 Shell script to rename branch on GitHub using Shell Script.
 Eg : Change Branch Name to Main to Master
 
